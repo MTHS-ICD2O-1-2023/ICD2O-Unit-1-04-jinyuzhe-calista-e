@@ -4,9 +4,11 @@
 */
 body {
   background-color: powderblue;
+}
+
 #my-header {
   background-color: rgb(255, 165, 0);
   color: hsl(147, 50%, 47%);
   padding: 40px;
-  text-align: center;
+  text-align: center
 }
